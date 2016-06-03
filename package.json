@@ -1,6 +1,6 @@
 {
-  "name": "ember-run-raf",
-  "version": "1.1.1",
+  "name": "bp-ember-run-raf",
+  "version": "0.0.1",
   "description": "Use requestAnimationFrame with Backburner.",
   "directories": {
     "doc": "doc",
@@ -13,17 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/runspired/ember-run-raf"
+    "url": "https://github.com/quincyle/ember-run-raf"
   },
   "engines": {
     "node": "~4.1.1"
   },
-  "homepage": "https://github.com/runspired/ember-run-raf",
-  "bugs": "https://github.com/runspired/ember-run-raf/issues",
-  "author": {
-    "name": "Chris Thoburn (@runspired)",
-    "url": "http://runspired.com"
-  },
+  "homepage": "https://github.com/quincyle/ember-run-raf",
+  "bugs": "https://github.com/quincyle/ember-run-raf/issues",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
